@@ -1,7 +1,22 @@
+# Meu-Primeiro-Projeto-React-do-zero #
+
+° Aprendi fazer uma pasta no react;
+°Apagar os arquivos que não preciso;
+° Fiz exercícios de cada dos meu filmes favoritos;
+
+
+ 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
