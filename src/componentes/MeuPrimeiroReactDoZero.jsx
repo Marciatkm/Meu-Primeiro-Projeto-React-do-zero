@@ -1,13 +1,14 @@
 import filmes from "../database/data"
+import './style.css'
 
 const MeuPrimeiroReactDoZero  = () => {
     return(
       <>
         {filmes.map(filme => 
-          <div key={filme.id}>
-            <h2>{filme.nome}</h2>
+          <div className="div-id" key={filme.id}>
+            <h2 className="titulo" >{filme.nome}</h2>
             <p>{filme.genero}</p>
-            <img src={filme.capa} alt={filme.nome}/>
+            <img  className="imagem" src={filme.capa} alt={filme.nome}/>
           </div>
         )}
       </>
