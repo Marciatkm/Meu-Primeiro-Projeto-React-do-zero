@@ -1,7 +1,6 @@
 # Meu-Primeiro-Projeto-React-do-zero #
 
-° Aprendi fazer uma pasta no react;
-°Apagar os arquivos que não preciso;
+
 ° Fiz exercícios de cada dos meu filmes favoritos;
 
 
