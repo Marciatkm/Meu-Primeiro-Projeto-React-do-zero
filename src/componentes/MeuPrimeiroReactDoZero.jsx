@@ -8,8 +8,11 @@ const MeuPrimeiroReactDoZero  = () => {
           <div className="div-id" key={filme.id}>
             <h2 className="titulo" >{filme.nome}</h2>
             <p>{filme.genero}</p>
-            <img  className="imagem" src={filme.capa} alt={filme.nome}/>
+            <p className="p-sinopse"  >{filme.sinopse}</p>
+            <img title="meus filmes favorito" className="imagem" src={filme.capa} alt={filme.nome}/>
           </div>
+          
+          
         )}
       </>
     )
